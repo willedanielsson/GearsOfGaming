@@ -16,7 +16,7 @@ header{
 }
 
 /* Detta är för dropdown-menu för mobiler*/
-nav select{
+.styled-select select{
 	display:none;
 }
 
@@ -267,7 +267,7 @@ margin-right: 30px;
 @media screen and (max-width: 500px){
 
 body{
-	width: 100%;
+	width: 500px;
 }
 
 .navigation ul	{ display:none; }
@@ -335,8 +335,39 @@ body{
 	display:inline-block;
 	text-decoration:none;
 }
+}
 
 
-@media screen and (min-width: 501) and (max-width: 900px){
+/*------------------------------------------För Tablets---------------------------*/
+@media screen and (min-width: 501px) and (max-width: 1100px){
+body{
+	width: 1000px;
+}
+
+.navigation{
+	width: 70%;
+	margin: 0 auto;
+}
+
+.navigation ul{
+	/* Alla UL-element */
+	display: inline-block;
+	text-align: center;
+	padding: 0;
+}
+.navigation li{
+width: 80px;
+}
+
+.navigation li a{
+	padding: 8px 0px 8px;
+}
+
+.top-list_text p{
+	font-family: times, Times New Roman, times-roman, georgia, serif;
+	font-size: 15px;
+	line-height: 20px;
+	width: 70%;
+}
 
 }
