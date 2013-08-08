@@ -24,5 +24,16 @@
 				<li id="contact"><a href="contact.php">Kontakt</a></li>
 			</ul>
 		</nav>
+		<div class="styled-select">	
+			<select>
+				<option value="index.php" selected>Hem</option>
+				<option value="headset.php">Headset</option>
+				<option value="mouses.php">Möss</option>
+				<option value="screens.php">Skärmar</option>
+				<option value="laptops.php">Laptops</option>
+				<option value="contact.php">Kontakt</option>
+			</select>
+
+		</div>
 
 

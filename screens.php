@@ -81,7 +81,6 @@
 				<div class="top-list_nav">
 					<a href="#" class="top-list_nav_button">NetOnNet*</a>
 					<a href="#" class="top-list_nav_button">Misco</a>
-					<a href="#" class="top-list_nav_button">Conrad</a>
 					<a href="logitechg930.php" class="top-list_nav_button" id="read-more">Läs mer</a>
 				</div>
 			</div>
