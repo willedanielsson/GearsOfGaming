@@ -6,6 +6,9 @@
 	<title>Gears of Gaming</title>
 	      <!-- Including the Lobster font from Google's Font Directory -->
         <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lobster" />
+        <link href="http://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet" type="text/css">
+		<link href="http://fonts.googleapis.com/css?family=Allerta" rel="stylesheet" type="text/css">
+
  <meta charset="utf-8">
 </head>
 

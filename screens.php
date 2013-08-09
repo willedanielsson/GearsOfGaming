@@ -17,9 +17,9 @@
 
 				</div>
 				<div class="top-list_nav">
-					<a href="#" class="top-list_nav_button">NetOnNet</a>
-					<a href="#" class="top-list_nav_button">Misco</a>
-					<a href="#.php" class="top-list_nav_button" id="read-more">Läs mer</a>
+					<a href="#" class="top-list_nav_button" target="_blank">NetOnNet</a>
+					<a href="#" class="top-list_nav_button" target="_blank">Misco</a>
+					<a href="#.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
 				</div>
 
 
@@ -36,9 +36,9 @@
 
 				</div>
 				<div class="top-list_nav">
-					<a href="#" class="top-list_nav_button">NetOnNet</a>
-					<a href="#" class="top-list_nav_button">Misco</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more">Läs mer</a>
+					<a href="#" class="top-list_nav_button" target="_blank">NetOnNet</a>
+					<a href="#" class="top-list_nav_button" target="_blank">Misco</a>
+					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
 				</div>
 				
 			</div>
@@ -50,9 +50,9 @@
 					<p> Vi tycker att ASUS VE247H förtjänar en plats i denna topplista. 23,6-tum och med en upplösning på 1920x1090 så är det en skärm i högklass. Den har även en kort responstid på 2ms vilket är viktigt när man spelar och har en väldigt hög kontrast på 10 000 000:1. Skärmen är väldigt tunn och är också en dator som passar bra om man ska ha två skärmar. Det finns även 5 olika bildlägen (Scenery, Standard, Theater, Game och Night View) som är väldigt smidiga om du till exempel sitter uppe på natten. Skärmen har även en liknande version, VE247T, som är lite billigare och finns att köpa hos Misco i länken* nedanför. </p>
 				</div>
 				<div class="top-list_nav">
-					<a href="#" class="top-list_nav_button">NetOnNet</a>
-					<a href="#" class="top-list_nav_button">Misco*</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more">Läs mer</a>
+					<a href="#" class="top-list_nav_button" target="_blank">NetOnNet</a>
+					<a href="#" class="top-list_nav_button" target="_blank">Misco*</a>
+					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
 				</div>
 			</div>
 
@@ -65,9 +65,9 @@
 					
 				</div>
 				<div class="top-list_nav">
-					<a href="#" class="top-list_nav_button">Conrad</a>
-					<a href="#" class="top-list_nav_button">Misco</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more">Läs mer</a>
+					<a href="#" class="top-list_nav_button" target="_blank">Conrad</a>
+					<a href="#" class="top-list_nav_button" target="_blank">Misco</a>
+					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
 				</div>
 			</div>
 
@@ -79,9 +79,9 @@
 
 				</div>
 				<div class="top-list_nav">
-					<a href="#" class="top-list_nav_button">NetOnNet*</a>
-					<a href="#" class="top-list_nav_button">Misco</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more">Läs mer</a>
+					<a href="#" class="top-list_nav_button" target="_blank">NetOnNet*</a>
+					<a href="#" class="top-list_nav_button" target="_blank">Misco</a>
+					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
 				</div>
 			</div>
 

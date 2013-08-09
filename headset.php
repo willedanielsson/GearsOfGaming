@@ -22,8 +22,8 @@
 						följande leverantörer för bästa pris och service </p>
 				</div>
 				<div class="top-list_nav">
-					<a href="#" class="top-list_nav_button">Conrad</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more">Läs mer</a>
+					<a href="#" class="top-list_nav_button" target="_blank">Conrad</a>
+					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
 				</div>
 
 
@@ -42,9 +42,9 @@
 						följande leverantörer för bästa pris och service </p>
 				</div>
 				<div class="top-list_nav">
-					<a href="http://www.facebook.com" class="top-list_nav_button">Feejaaan</a>
-					<a href="http://www.google.se" class="top-list_nav_button">Google</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more">Läs mer</a>
+					<a href="http://www.facebook.com" class="top-list_nav_button" target="_blank">Feejaaan</a>
+					<a href="http://www.google.se" class="top-list_nav_button" target="_blank">Google</a>
+					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
 				</div>
 				
 			</div>
@@ -64,8 +64,8 @@
 						följande leverantörer för bästa pris och service </p>
 				</div>
 				<div class="top-list_nav">
-					<a href="http://www.facebook.com" class="top-list_nav_button">Feejaaan</a>
-					<a href="http://www.google.se" class="top-list_nav_button">Google</a>
+					<a href="http://www.facebook.com" class="top-list_nav_button" target="_blank">Feejaaan</a>
+					<a href="http://www.google.se" class="top-list_nav_button" target="_blank">Google</a>
 					<a href="logitechg930.php" class="top-list_nav_button" id="read-more">Läs mer</a>
 				</div>
 			</div>
@@ -84,9 +84,9 @@
 					
 				</div>
 				<div class="top-list_nav">
-					<a href="http://www.facebook.com" class="top-list_nav_button">Feejaaan</a>
-					<a href="http://www.google.se" class="top-list_nav_button">Google</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more">Läs mer</a>
+					<a href="http://www.facebook.com" class="top-list_nav_button" target="_blank">Feejaaan</a>
+					<a href="http://www.google.se" class="top-list_nav_button" target="_blank">Google</a>
+					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
 				</div>
 			</div>
 
@@ -111,8 +111,8 @@
 					document.write('<img src="'+uri +'">');
 					</script>
 					
-					<a href="http://www.google.se" class="top-list_nav_button">Google</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more">Läs mer</a>
+					<a href="http://www.google.se" class="top-list_nav_button" target="_blank">Google</a>
+					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
 				</div>
 			</div>
 

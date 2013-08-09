@@ -21,8 +21,8 @@
 
 				</div>
 				<div class="top-list_nav">
-					<a href="#" class="top-list_nav_button">NetOnNet</a>
-					<a href="#.php" class="top-list_nav_button" id="read-more">Läs mer</a>
+					<a href="#" class="top-list_nav_button" target="_blank">NetOnNet</a>
+					<a href="#.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
 				</div>
 
 
@@ -43,9 +43,9 @@
 					
 
 				</div>
-				<div class="top-list_nav">
-					<a href="#" class="top-list_nav_button">DELL</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more">Läs mer</a>
+				<div class="top-list_nav"> 
+					<a href="#" class="top-list_nav_button" target="_blank">DELL</a>
+					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
 				</div>
 				
 			</div>
@@ -57,8 +57,8 @@
 					<p> Den bärbara datorn med touchskärm, ASUS VivoBook S400CA har slagit ihop det roliga hos en tablet med de kraftfulla komponenter som de har i sina laptops. Med en 14-tums skärm, en i5-processor, 4GB RAM och 500GB hårddisk så är den nästan lika kraftfulla som de andra datorerna på listan men touchskärmen är väldigt bekvämlig, speciellt med nya operativsystemet Windows 8 som blir väldigt smidigt om man har en touchskärm. Vid köp från NetOnNet får man även 2 års garanti, något som brukar vara väldigt användbart när det gäller laptops. </p>
 				</div>
 				<div class="top-list_nav">
-					<a href="#" class="top-list_nav_button">NetOnNet</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more">Läs mer</a>
+					<a href="#" class="top-list_nav_button" target="_blank">NetOnNet</a>
+					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
 				</div>
 			</div>
 
@@ -79,9 +79,9 @@
 									
 				</div>
 				<div class="top-list_nav">
-					<a href="#" class="top-list_nav_button">DELL</a>
-					<a href="#" class="top-list_nav_button">NetOnNet</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more">Läs mer</a>
+					<a href="#" class="top-list_nav_button" target="_blank">DELL</a>
+					<a href="#" class="top-list_nav_button" target="_blank">NetOnNet</a>
+					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
 				</div>
 			</div>
 

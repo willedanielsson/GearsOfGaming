@@ -17,9 +17,9 @@
 
 				</div>
 				<div class="top-list_nav">
-					<a href="#" class="top-list_nav_button">Spelbutiken</a>
-					<a href="#" class="top-list_nav_button">NetOnNet</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more">Läs mer</a>
+					<a href="#" class="top-list_nav_button" target="_blank">Spelbutiken</a>
+					<a href="#" class="top-list_nav_button" target="_blank">NetOnNet</a>
+					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
 				</div>
 
 
@@ -40,10 +40,10 @@
 
 				</div>
 				<div class="top-list_nav">
-					<a href="#" class="top-list_nav_button">NetOnNet</a>
-					<a href="#" class="top-list_nav_button">Conrad</a>
-					<a href="#" class="top-list_nav_button">Misco</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more">Läs mer</a>
+					<a href="#" class="top-list_nav_button" target="_blank">NetOnNet</a>
+					<a href="#" class="top-list_nav_button" target="_blank">Conrad</a>
+					<a href="#" class="top-list_nav_button" target="_blank">Misco</a>
+					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
 				</div>
 				
 			</div>
@@ -60,8 +60,8 @@
 					precis efter din hand så kommer ömma händer aldrig vara ett problem. </p>
 				</div>
 				<div class="top-list_nav">
-					<a href="#" class="top-list_nav_button">NetOnNet</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more">Läs mer</a>
+					<a href="#" class="top-list_nav_button" target="_blank">NetOnNet</a>
+					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
 				</div>
 			</div>
 
@@ -78,9 +78,9 @@
 					
 				</div>
 				<div class="top-list_nav">
-					<a href="#" class="top-list_nav_button">NetOnNet</a>
-					<a href="#" class="top-list_nav_button">Conrad</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more">Läs mer</a>
+					<a href="#" class="top-list_nav_button" target="_blank">NetOnNet</a>
+					<a href="#" class="top-list_nav_button" target="_blank">Conrad</a>
+					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
 				</div>
 			</div>
 
@@ -97,9 +97,9 @@
 
 				</div>
 				<div class="top-list_nav">
-					<a href="#" class="top-list_nav_button">Spelbutiken</a>
-					<a href="#" class="top-list_nav_button">NetOnNet</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more">Läs mer</a>
+					<a href="#" class="top-list_nav_button" target="_blank">Spelbutiken</a>
+					<a href="#" class="top-list_nav_button" target="_blank">NetOnNet</a>
+					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
 				</div>
 			</div>
 
