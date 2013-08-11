@@ -15,11 +15,24 @@
 					eller spel som HoN eller LoL och inte är i behov av så många knappar på musen. Med en oerhört
 					bra komfort och snabb reaktionstid så förtjänar den första platsen! </p>
 
+					<p> Pris: ~600kr </p>
+
 				</div>
 				<div class="top-list_nav">
-					<a href="#" class="top-list_nav_button" target="_blank">Spelbutiken</a>
-					<a href="#" class="top-list_nav_button" target="_blank">NetOnNet</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
+					<a href="http://clk.tradedoubler.com/click?p=77609&a=2254439&g=17509462&url=https://www.spelbutiken.se/catalog/product/80855-razer-deathadder-6400-dpi-2013"
+					class="top-list_nav_button" target="_blank">Spelbutiken</a>
+					<script type="text/javascript">
+					var uri = 'http://impse.tradedoubler.com/imp?type(inv)g(17509462)a(2254439)' + new String (Math.random()).substring (2, 11);
+					document.write('<img src="'+uri +'">');
+					</script>
+
+					<a href="http://clk.tradedoubler.com/click?p=220337&a=2254439&g=20658470&url=http://www.netonnet.se/art/dator/kringutrustning/speltillbehor/gamingmss/razer-razerdeathadder2013/183191.5629/"
+					class="top-list_nav_button" target="_blank">NetOnNet SE</a>
+					<script type="text/javascript">
+					var uri = 'http://impse.tradedoubler.com/imp?type(inv)g(20658470)a(2254439)' + new String (Math.random()).substring (2, 11);
+					document.write('<img src="'+uri +'">');
+					</script>
+
 				</div>
 
 
@@ -38,12 +51,20 @@
 					<p>För ett billigare alternativ så köp den äldre versionen från NetOnNet, Conrad & Misco
 						erbjuder den senaste versionen</p>
 
+					<p> Pris: 400 eller 600kr </p>
+
 				</div>
 				<div class="top-list_nav">
-					<a href="#" class="top-list_nav_button" target="_blank">NetOnNet</a>
-					<a href="#" class="top-list_nav_button" target="_blank">Conrad</a>
-					<a href="#" class="top-list_nav_button" target="_blank">Misco</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
+					<a href="http://clk.tradedoubler.com/click?p=220337&a=2254439&g=20658470&url=http://www.netonnet.se/art/dator/kringutrustning/speltillbehor/gamingmss/logitech-g600black/174764.5629/"
+					class="top-list_nav_button" target="_blank">NetOnNet SE</a>
+					<script type="text/javascript">
+					var uri = 'http://impse.tradedoubler.com/imp?type(inv)g(20658470)a(2254439)' + new String (Math.random()).substring (2, 11);
+					document.write('<img src="'+uri +'">');
+					</script>
+
+					<a href="http://www.conrad.se/LOGITECH-G600-MMO-GAMINGMUS,-SVART.htm?websale7=conrad-swe&pi=351657&Ctx=%7Bver%2F7%2Fver%7D%7Bst%2F3ec%2Fst%7D%7Bcmd%2F0%2Fcmd%7D%7Bm%2Fwebsale%2Fm%7D%7Bs%2Fconrad-swe%2Fs%7D%7Bl%2F01-aa%2Fl%7D%7Bsf%2F%3Cs1%3ELogitech%20G600%3C%2Fs1%3E%2Fsf%7D%7Bp1%2F83e73cdf6f79e421498cbcc427712fba%2Fp1%7D%7Bmd5%2Fd835a961eacbf498ad0667f7030099fb%2Fmd5%7D" class="top-list_nav_button" target="_blank">Conrad</a>
+					<a href="http://www.misco.se/product/product.aspx?P_ItemId=6833172&SearchString=Logitech%20g600" class="top-list_nav_button" target="_blank">Misco</a>
+				
 				</div>
 				
 			</div>
@@ -58,10 +79,17 @@
 					spelande kommer bli bättre men framförallt skönare. Många har svårt att hitta en mus som
 					man inte får ont av efter några timmars spelande men om du tar dig tiden att ställa in den
 					precis efter din hand så kommer ömma händer aldrig vara ett problem. </p>
+
+						<p> Pris: 700kr </p>
 				</div>
 				<div class="top-list_nav">
-					<a href="#" class="top-list_nav_button" target="_blank">NetOnNet</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
+					<a href="http://clk.tradedoubler.com/click?p=220337&a=2254439&g=20658470&url=http://www.netonnet.se/art/dator/kringutrustning/speltillbehor/gamingmss/saitek-cyborgrat7/157455.5629/"
+					class="top-list_nav_button" target="_blank">NetOnNet SE</a>
+					<script type="text/javascript">
+					var uri = 'http://impse.tradedoubler.com/imp?type(inv)g(20658470)a(2254439)' + new String (Math.random()).substring (2, 11);
+					document.write('<img src="'+uri +'">');
+					</script>
+
 				</div>
 			</div>
 
@@ -78,9 +106,15 @@
 					
 				</div>
 				<div class="top-list_nav">
-					<a href="#" class="top-list_nav_button" target="_blank">NetOnNet</a>
-					<a href="#" class="top-list_nav_button" target="_blank">Conrad</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
+					<a href="http://clk.tradedoubler.com/click?p=220337&a=2254439&g=20658470&url=http://www.netonnet.se/art/dator/kringutrustning/speltillbehor/gamingmss/logitech-g500/160383.5629/"
+					class="top-list_nav_button" target="_blank">NetOnNet SE</a>
+					<script type="text/javascript">
+					var uri = 'http://impse.tradedoubler.com/imp?type(inv)g(20658470)a(2254439)' + new String (Math.random()).substring (2, 11);
+					document.write('<img src="'+uri +'">');
+					</script>
+
+					<a href="http://www.conrad.se/LOGITECH-GAMINGMUS-G500.htm?websale7=conrad-swe&pi=913840&Ctx=%7Bver%2F7%2Fver%7D%7Bst%2F3ec%2Fst%7D%7Bcmd%2F0%2Fcmd%7D%7Bm%2Fwebsale%2Fm%7D%7Bs%2Fconrad-swe%2Fs%7D%7Bl%2F01-aa%2Fl%7D%7Bsf%2F%3Cs1%3Elogitech%20g500%3C%2Fs1%3E%2Fsf%7D%7Bp1%2F83e73cdf6f79e421498cbcc427712fba%2Fp1%7D%7Bmd5%2Fa200b0009100508ccb0295f45f4452f7%2Fmd5%7D"
+					 class="top-list_nav_button" target="_blank">Conrad</a>
 				</div>
 			</div>
 
@@ -95,11 +129,24 @@
 					Musen är även designad så den passar både vänster och högerhänta. Vill du ta ditt gameande till en
 					ny nivå är detta musen för dig </p>
 
+						<p> Pris: 700kr </p>
+
 				</div>
 				<div class="top-list_nav">
-					<a href="#" class="top-list_nav_button" target="_blank">Spelbutiken</a>
-					<a href="#" class="top-list_nav_button" target="_blank">NetOnNet</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
+					<a href="http://clk.tradedoubler.com/click?p=77609&a=2254439&g=17509462&url=https://www.spelbutiken.se/catalog/product/77559-razer-taipan-expert-ambidextrous-gaming-mouse"
+					class="top-list_nav_button" target="_blank">Spelbutiken</a>
+					<script type="text/javascript">
+					var uri = 'http://impse.tradedoubler.com/imp?type(inv)g(17509462)a(2254439)' + new String (Math.random()).substring (2, 11);
+					document.write('<img src="'+uri +'">');
+					</script>
+
+					<a href="http://clk.tradedoubler.com/click?p=220337&a=2254439&g=20658470&url=http://www.netonnet.se/art/dator/kringutrustning/speltillbehor/gamingmss/razer-taipanexpertambidextrous/184286.5629/"
+					class="top-list_nav_button" target="_blank">NetOnNet SE</a>
+					<script type="text/javascript">
+					var uri = 'http://impse.tradedoubler.com/imp?type(inv)g(20658470)a(2254439)' + new String (Math.random()).substring (2, 11);
+					document.write('<img src="'+uri +'">');
+					</script>
+
 				</div>
 			</div>
 

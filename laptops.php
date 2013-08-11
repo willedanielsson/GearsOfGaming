@@ -21,8 +21,12 @@
 
 				</div>
 				<div class="top-list_nav">
-					<a href="#" class="top-list_nav_button" target="_blank">NetOnNet</a>
-					<a href="#.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
+					<a href="http://clk.tradedoubler.com/click?p=220337&a=2254439&g=20658470&url=http://www.netonnet.se/art/dator/laptop/skarmstorlek/laptop-15---16-tum/lenovo-ideapadg500s/190601.3003/"
+					class="top-list_nav_button" target="_blank">NetOnNet SE</a>
+					<script type="text/javascript">
+					var uri = 'http://impse.tradedoubler.com/imp?type(inv)g(20658470)a(2254439)' + new String (Math.random()).substring (2, 11);
+					document.write('<img src="'+uri +'">');
+					</script>
 				</div>
 
 
@@ -43,11 +47,10 @@
 					
 
 				</div>
-				<div class="top-list_nav"> 
-					<a href="#" class="top-list_nav_button" target="_blank">DELL</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
+				<div class="top-list_nav">
+				 
+					<a href="http://www.dell.com/se/foretag/p/vostro-3360/fs" class="top-list_nav_button" target="_blank">DELL</a>
 				</div>
-				
 			</div>
 
 			<div class="top-list" id="third">
@@ -55,10 +58,16 @@
 				<img class="top-list_image" src="laptops_third.png" alt="Best Laptop|ASUS VIVO S400CA-CA006H ">
 				<div class="top-list_text">
 					<p> Den bärbara datorn med touchskärm, ASUS VivoBook S400CA har slagit ihop det roliga hos en tablet med de kraftfulla komponenter som de har i sina laptops. Med en 14-tums skärm, en i5-processor, 4GB RAM och 500GB hårddisk så är den nästan lika kraftfulla som de andra datorerna på listan men touchskärmen är väldigt bekvämlig, speciellt med nya operativsystemet Windows 8 som blir väldigt smidigt om man har en touchskärm. Vid köp från NetOnNet får man även 2 års garanti, något som brukar vara väldigt användbart när det gäller laptops. </p>
+				
+					<p>Pris: 6000kr </p>	
 				</div>
 				<div class="top-list_nav">
-					<a href="#" class="top-list_nav_button" target="_blank">NetOnNet</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
+					<a href="http://clk.tradedoubler.com/click?p=220337&a=2254439&g=20658470&url=http://www.netonnet.se/art/dator/laptop/skarmstorlek/laptop-13---14-tum/asus-s400ca-ca006h/177729.5055/"
+					class="top-list_nav_button" target="_blank">NetOnNet SE</a>
+					<script type="text/javascript">
+					var uri = 'http://impse.tradedoubler.com/imp?type(inv)g(20658470)a(2254439)' + new String (Math.random()).substring (2, 11);
+					document.write('<img src="'+uri +'">');
+					</script>
 				</div>
 			</div>
 
@@ -79,9 +88,14 @@
 									
 				</div>
 				<div class="top-list_nav">
-					<a href="#" class="top-list_nav_button" target="_blank">DELL</a>
-					<a href="#" class="top-list_nav_button" target="_blank">NetOnNet</a>
-					<a href="logitechg930.php" class="top-list_nav_button" id="read-more" target="_blank">Läs mer</a>
+					<a href="http://www.dell.com/se/foretag/p/inspiron-15r-se-7520/fs" class="top-list_nav_button" target="_blank">DELLs</a>
+					
+					<a href="http://clk.tradedoubler.com/click?p=220337&a=2254439&g=20658470&url=http://www.netonnet.se/art/dator/laptop/skarmstorlek/laptop-15---16-tum/dell-inspiron15r/189934.3003/"
+					class="top-list_nav_button" target="_blank">NetOnNet SE</a>
+					<script type="text/javascript">
+					var uri = 'http://impse.tradedoubler.com/imp?type(inv)g(20658470)a(2254439)' + new String (Math.random()).substring (2, 11);
+					document.write('<img src="'+uri +'">');
+					</script>
 				</div>
 			</div>
 

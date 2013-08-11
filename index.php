@@ -6,12 +6,12 @@
 				<div class="top_content">
 					<h1>Av Gamers, För Gamers!</h1>
 					<p> GearsOfGaming är en svensk sida som är skapad av seriösa gamers där vi har rankat
-						gamingheadset, gamingmöss, skärmar och laptops. Om man är sugen på att byta ut något
-						tillbehör till datorn kan man då enkelt gå in på den här sidan så gör vi valet lite enklare
-						då vi beskriver varje artikelt enkelt och tar bara med det som vi tycker är viktigt när man 
-						jämför, vi har också kollat vart man kan köpa varje artikel för bästa pris och bästa service!</p>
+						gamingheadset, gamingmöss, skärmar och laptops. När det är tid att byta ut något
+						tillbehör till datorn kan man då enkelt gå in på den här sidan så gör vi valet lite enklare.
+						Vii beskriver varje artikel enkelt och tar bara med det som vi tycker är viktigt när man 
+						jämför, vi har också kollat vart man ska köpa det för bästa pris och service!</p>
 
-					<p> Om ni har svårigheter med att välja vad ni vill köpa så tveka inte på att kontakt oss! </p>
+					<p> Om ni har svårigheter med att välja vad ni vill köpa så tveka inte på att <a href="contact.php">kontakta</a> oss! </p>
 				</div>
 
 				<div class="left_content">
